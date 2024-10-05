@@ -17,14 +17,14 @@ The **Ultrasonic Radar System** uses an ultrasonic sensor connected to an Arduin
 ## How to Run
 
 1. **Arduino Code**:
-   - Upload the Arduino code (`arduino/ultrasonic_radar.ino`) to your Arduino board.
+   - Upload the Arduino code (`Radar.ino`) to your Arduino board.
    - Connect the ultrasonic sensor as per the wiring instructions provided in the Arduino script.
 
 2. **Processing Visualization**:
-   - Run the Processing script (`processing/radar_visualization.pde`) in the Processing IDE to visualize the data from the sensor in real-time.
+   - Run the Processing script (`RADAR__Project.pde`) in the Processing IDE to visualize the data from the sensor in real-time.
 
 3. **Python Code**:
-   - (Optional) Run the Python script (`python/data_handler.py`) for storing the distance values in a .txt file.
+   - (Optional) Run the Python script (`Radar-Project.py`) for storing the distance values in a .txt file.
    - For redundancy case, create your own text file & use that.
 
 ## Requirements
