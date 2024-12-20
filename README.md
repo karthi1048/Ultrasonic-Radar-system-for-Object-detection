@@ -34,4 +34,4 @@ The **Ultrasonic Radar System** uses an ultrasonic sensor connected to an Arduin
 
 ## Screenshots
 
-<img src="" alt="RADAR like visualization using Processing">
+<img src="Radar Visualization.jpg" alt="RADAR like visualization using Processing">
