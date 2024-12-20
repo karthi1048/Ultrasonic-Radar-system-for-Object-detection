@@ -32,4 +32,6 @@ The **Ultrasonic Radar System** uses an ultrasonic sensor connected to an Arduin
 - **Hardware**: Arduino board, Ultrasonic sensor (e.g., HC-SR04), Servo motor, Connecting wires.
 - **Software**: Arduino IDE, Processing IDE, Python 3.x.
 
----
+## Screenshots
+
+<img src="" alt="RADAR like visualization using Processing">
